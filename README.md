@@ -18,6 +18,7 @@ And I'm currently working on:
 
 ## Let's Connect!
 <a href="https://www.linkedin.com/in/marshallheyda/"><img height="32" width="32" src="images/linkedin-fill.svg" /></a>
+<a href=""><img height="32" width="32" src="images/twitter-fill.svg" /></a>
 <a href="https://www.instagram.com/marshallheyda/"><img height="32" width="32" src="images/instagram-fill.svg" /></a>
 
 <!---
