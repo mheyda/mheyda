@@ -17,7 +17,7 @@ And I'm currently working on:
 </ul>
 
 ## Let's Connect!
-<img height="32" width="32" src="linkedin-fill.svg" />
+<a href="https://www.linkedin.com/in/marshallheyda/" target="_blank"><img height="32" width="32" src="images/linkedin-fill.svg" /></a>
 
 <!---
 mheyda/mheyda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
