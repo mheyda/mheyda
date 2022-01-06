@@ -1,8 +1,23 @@
 # Hi! I’m Marshall Heyda.
 
-### I'm a recent civil engineering graduate who fell in love with coding while completing CS50 and decided to make the transition into software development. 
+In May 2021 I graduated Summa Cum Laude with a bachelor's degree in civil engineering and planned to attend Stanford University for my master's in structural engineering. That all changed, however, the following summer when I fell in love with coding while taking Harvard's CS50 for fun. I decided to dive head first into the world of software development by foregoing grad school (at least for structural engineering), quitting my structural engineering job, and start self-teaching full-time to become a software developer.
+<br />
+<br />
+Since starting my coding journey in August 2021, I have completed multiple online courses including:
+<ul>
+  <li>CS50 from Harvard University</li>
+  <li>"Introduction to Object-Oriented Programming with Java" from Georgia Tech Professional Education</li>
+  <li>"Data Structures & Algorithms" from Georgia Tech Professional Education</li>
+</ul>
 
-<p>Currently I'm working through CS50w (the web development sequel course to CS50) and building out my portfolio with personal projects. My learning right now is focused around Python and JavaScript.</p>
+And I'm currently working on:
+<ul>
+  <li>CS50w (the web development sequel course to CS50)</li>
+  <li>Building an ecommerce site for my photography portfolio/store using Django (photography is one of my favorite hobbies)</li>
+</ul>
+
+## Let's Connect!
+
 
 <!---
 mheyda/mheyda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
