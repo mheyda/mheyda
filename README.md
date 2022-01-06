@@ -1,7 +1,7 @@
 <img height="100%" src="images/banner.png"/>
 
 #### About Me
-In May 2021 I graduated Summa Cum Laude with a bachelor's degree in civil engineering and planned to attend Stanford University for my master's in structural engineering. That all changed, however, the following summer when I fell in love with coding while taking Harvard's CS50 for fun. I decided to dive head first into the world of software development by foregoing grad school (at least for structural engineering), quitting my structural engineering job, and start self-teaching full-time to become a software developer.
+In May 2021 I graduated Summa Cum Laude with a bachelor's degree in civil engineering and planned to attend Stanford University for my master's in structural engineering. That all changed, however, the following summer when I fell in love with coding while taking Harvard's CS50 for fun. I decided to dive head first into the world of software development by forgoing grad school (at least for structural engineering), quitting my structural engineering job, and start self-teaching full-time to become a software developer.
 
 #### Since starting my coding journey in August 2021, I have completed multiple online courses including:
 <ul>
