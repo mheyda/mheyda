@@ -1,7 +1,7 @@
 <img height="100%" src="images/banner.png"/>
 
 #### About Me
-In May 2021 I graduated Summa Cum Laude with a bachelor's degree in civil engineering and planned to attend Stanford University for my master's in structural engineering. That all changed, however, the following summer when I fell in love with coding while taking Harvard's CS50 for fun. I decided to dive head first into the world of software development by forgoing grad school (at least for structural engineering), quitting my engineering job, and beginning my path to become a "self-taught" software developer.
+In May 2021 I graduated Summa Cum Laude with a bachelor's degree in civil engineering and planned to attend Stanford University for my master's in structural engineering. That all changed, however, the following summer when I fell in love with coding while taking Harvard's CS50 for fun. I decided to dive head first into the world of software development by forgoing grad school (at least for structural engineering), quitting my engineering job, and beginning my path to become a self-taught developer.
 
 #### Since starting my coding journey in August 2021, I have completed multiple online courses including:
 <ul>
@@ -19,7 +19,6 @@ In May 2021 I graduated Summa Cum Laude with a bachelor's degree in civil engine
 ## Let's Connect!
 <a href="https://www.linkedin.com/in/marshallheyda/"><img height="32" width="32" src="images/linkedin-fill.svg" /></a>
 <a href="https://twitter.com/marshall_codes"><img height="32" width="32" src="images/twitter-fill.svg" /></a>
-<a href="https://www.instagram.com/marshallheyda/"><img height="32" width="32" src="images/instagram-fill.svg" /></a>
 
 <!---
 mheyda/mheyda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
