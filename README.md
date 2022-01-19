@@ -17,8 +17,8 @@ In May 2021 I graduated Summa Cum Laude with a bachelor's degree in civil engine
 </ul>
 
 ## Let's Connect!
-<a href="https://www.linkedin.com/in/marshallheyda/" style="background-color: white; border-radius: 5px"><img height="32" width="32" src="images/linkedin-fill.svg" /></a>
-<a href="https://twitter.com/marshall_codes"><img height="32" width="32" src="images/twitter-fill.svg" /></a>
+<a href="https://www.linkedin.com/in/marshallheyda/" style="background-color: white; border-radius: 5px"><img height="32" width="32" src="images/instagram.png" /></a>
+<a href="https://twitter.com/marshall_codes"><img height="32" width="32" src="images/twitter.png" /></a>
 
 <!---
 mheyda/mheyda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
