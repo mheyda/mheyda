@@ -12,8 +12,8 @@ In May 2021 I graduated Summa Cum Laude with a bachelor's degree in civil engine
 
 #### And I'm currently working on:
 <ul>
-  <li>CS50w (the web development sequel course to CS50)</li>
-  <li>Building an ecommerce site for my photography portfolio/store using Django (photography is one of my favorite hobbies)</li>
+  <li>Building an ecommerce site for photography prints using JavaScript, HTML, and CSS (photography is one of my favorite hobbies)</li>
+  <li>Learning React.js</li>
 </ul>
 
 ## Let's Connect!
