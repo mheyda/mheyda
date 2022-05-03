@@ -1,20 +1,7 @@
 <img width="100%" src="images/banner.png"/>
 
-#### About Me
-In May 2021 I graduated Summa Cum Laude with a bachelor's degree in civil engineering and planned to attend Stanford University for my master's in structural engineering. That all changed, however, the following summer when I fell in love with coding while taking Harvard's CS50 for fun. I decided to dive head first into the world of software development by forgoing grad school (at least for structural engineering), quitting my engineering job, and beginning my path to become a self-taught developer.
-
-#### Since starting my coding journey in August 2021, I have completed multiple online courses including:
-<ul>
-  <li>CS50 from Harvard University</li>
-  <li>"Introduction to Object-Oriented Programming with Java" from Georgia Tech Professional Education</li>
-  <li>"Data Structures & Algorithms" from Georgia Tech Professional Education</li>
-</ul>
-
-#### And I'm currently working on:
-<ul>
-  <li>Building an ecommerce site for photography prints using JavaScript, HTML, and CSS (photography is one of my favorite hobbies)</li>
-  <li>Learning React.js</li>
-</ul>
+## About Me
+I'm an incoming computer science graduate student at Georgia Tech pivoting from a previous career in civil engineering. I have a passion for technology and have focused my independent studies on frontend development since making the leap into software engineering. I am currently sharpening my skills with React.js, TypeScript, Redux, and CSS as I continue to look for my first frontend engineering role in the industry!
 
 ## Let's Connect!
 <a href="https://www.linkedin.com/in/marshallheyda/"><img height="32" width="32" src="images/linkedin (1).png" /></a>
