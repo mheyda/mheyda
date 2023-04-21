@@ -7,7 +7,7 @@ I'm a software engineer and current computer science graduate student at Georgia
   <li><strong>Databases:</strong> PostgreSQL, MariaDB, SQLite</li>
   <li><strong>Frameworks & Libraries:</strong> Django, ReactJS, ReduxJS, ChartJS, pytest</li>
   <li><strong>DevOps:</strong> Git, GitHub, GitLab, Heroku</li>
-  <li><strong>Other:</strong> Jira, Confluence, Figma, VMWare, Oracle VM VirtualBox, HTML, CSS, Bootstrap</li>
+  <li><strong>Other:</strong> Jira, Confluence, Figma, VMWare, Oracle VM VirtualBox, Responsive Design, HTML, CSS, Bootstrap</li>
 </ul>
 
 ## Let's Connect!
