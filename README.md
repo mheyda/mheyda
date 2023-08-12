@@ -3,9 +3,10 @@
 ## About Me
 I'm a software engineer and current computer science graduate student at Georgia Tech. I have a passion for technology and am always looking for ways to grow as a developer. Through work, school, and personal projects, I have developed skills in the following areas:
 <ul>
-  <li><strong>Programming languages:</strong> Python, JavaScript, TypeScript, C, C++</li>
+  <li><strong>Programming languages:</strong> Python, Scala, JavaScript, TypeScript, C, C++</li>
   <li><strong>Databases:</strong> PostgreSQL, MariaDB, SQLite</li>
-  <li><strong>Frameworks & Libraries:</strong> Django, ReactJS, ReduxJS, ChartJS, pytest</li>
+  <li><strong>Frameworks & Libraries:</strong> Django, ReactJS, ReduxJS, Apache Spark, ChartJS, pytest</li>
+  <li><strong>Cloud:</strong> AWS</li>
   <li><strong>DevOps:</strong> Git, GitHub, GitLab, Heroku</li>
   <li><strong>Other:</strong> Jira, Confluence, Figma, VMWare, Oracle VM VirtualBox, Responsive Design, HTML, CSS, Bootstrap</li>
 </ul>
